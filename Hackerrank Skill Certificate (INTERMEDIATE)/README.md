@@ -8,7 +8,7 @@
 ![image](https://user-images.githubusercontent.com/80534916/148671953-357e9ebc-da49-4877-b336-998b4a265bed.png)
 
 
-## Q2. 
+## Q2. BUSINESS EXPANSION
 **As part of business expansion efforts at a company, your help is needed to find all pairs of customers and agents who have been in contact more than once. For each such pair, display the user id, first name, and last name, and the customer id, name, and the number of their contacts. Order the result by user id ascending.**
 
 ![image](https://user-images.githubusercontent.com/80534916/148671961-61cfbc95-8e7a-4360-a369-eb9d9df3771d.png)
