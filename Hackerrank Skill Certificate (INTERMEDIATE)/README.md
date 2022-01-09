@@ -1,6 +1,6 @@
 # HackerRank Skill Certification SQL Intermediate Solutions
 
-## Q1. 
+## Q1. INVOICE PER COUNTRY
 **A business is analyzing data by country. For each country, display the country name, total number of invoices, and their average amount. Format the average as a floating-point number with 6 decimal places. Return only those countries where their average invoice amount is greater than the average invoice amount over all invoices.**
 
 ![image](https://user-images.githubusercontent.com/80534916/148671943-a02a62f8-d02e-45aa-a048-60410c0d3e65.png)
