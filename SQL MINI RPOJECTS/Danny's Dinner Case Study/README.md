@@ -79,3 +79,23 @@ Each of the following case study questions can be answered using a single SQL st
 ### Join All The Things
 ![image](https://user-images.githubusercontent.com/80534916/184415955-b525c035-b9e3-472e-b167-7fb2b9973fe9.png)
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+**Note: While file upload Danny was renamed as Dammy 😂 (Please do ignore this name confusion)**
