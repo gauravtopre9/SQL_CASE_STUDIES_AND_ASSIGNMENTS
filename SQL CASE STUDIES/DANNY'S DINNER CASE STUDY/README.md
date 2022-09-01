@@ -1,4 +1,4 @@
-# SQL Case Study I : Danny's Dinner 
+# Case Study 2 : Danny's Dinner 
 **Source :  [Weekly SQL Challenge](https://8weeksqlchallenge.com/case-study-1/)**
 
 ## Introduction
@@ -97,5 +97,10 @@ Each of the following case study questions can be answered using a single SQL st
 
 
 
-
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Note: While file upload Danny was renamed as Dammy 😂 (Please do ignore this name confusion)**
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<p align="center">
+<img src="http://ForTheBadge.com/images/badges/built-with-love.svg">
+</p>
+
